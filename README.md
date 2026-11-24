@@ -11,3 +11,5 @@ The portfolio uses fictional records for MIT 8103: Bank / Fintech Platform.
 - [Portfolio 5](portfolio-5-distributed-cloud/)
 
 [Final summary](Tukele_Osareme_301919921_FinalSummary.md) · [PDF](Tukele_Osareme_301919921_FinalSummary.pdf)
+
+#I had to edit and commit to avoid deletion.
