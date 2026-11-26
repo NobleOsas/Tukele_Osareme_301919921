@@ -1,6 +1,6 @@
 # MIT 8103: Bank / Fintech Platform — Portfolio 5
 
-This is the proposed distributed design for the case study.
+This is the proposed distributed design for the case study...
 
 ## Case and proposed deployment
 
