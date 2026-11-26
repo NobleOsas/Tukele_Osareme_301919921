@@ -1,5 +1,5 @@
 # Portfolio 4 — NoSQL and Advanced Data Models
-
+#reviewed
 I used MongoDB collection transfer_events for transfer_initiated and transfer_settled events. These are fictional event examples based on transfer, account.
 
 ## Document model
