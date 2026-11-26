@@ -1,4 +1,4 @@
-# MIT 8103 Advanced Database Systems
+# MIT 8103 Advanced Database Systems.
 
 **MIT 8103: Bank / Fintech Platform** · Osareme Tukele · Student ID 301919921
 
