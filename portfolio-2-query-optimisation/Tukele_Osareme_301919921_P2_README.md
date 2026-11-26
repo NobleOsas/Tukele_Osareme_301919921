@@ -1,5 +1,5 @@
 # MIT 8103: Bank / Fintech Platform — SQL queries
-
+#Reviewed
 ## 1. Show related account, customer records (up to 20).
 
 ```sql
